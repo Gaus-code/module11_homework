@@ -1,8 +1,3 @@
-// function sum(a, b) {
-//     return a + b;
-// }
-// module.exports = sum;
-
 function getMonth(n) {
 	if (n === 1) return 'январь';
 	if (n === 2) return 'февраль';
